@@ -1,5 +1,5 @@
 import React from 'react';
-
+import '../App.css'
 const NavButton = (props) => {
   if (props.type === 'file') {
     return (
@@ -14,7 +14,10 @@ const NavButton = (props) => {
   } else {
     return (
       <button className={`nav-rect ${props.className}`} onClick={props.onClick} type={props.type}>
-        <img src={props.img_url} className='img-size' />
+        {
+          props.img_url?<img src={props.img_url} className='img-size' />:null
+        }
+        
         {props.children}
       </button>
     );

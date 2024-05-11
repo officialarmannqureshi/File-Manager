@@ -24,7 +24,7 @@
     margin-left: 20px;
     display: grid;
     column-gap: 30px;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: auto auto auto auto auto auto;
     padding: 3px;
 
 
@@ -121,4 +121,10 @@
 #root{
   width: 100vw;
   height: 100vh;
+}
+.signout{
+  position: relative;
+  left: 10rem;
+  top: 0;
+  background-color: brown;
 }
