@@ -6,12 +6,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyASKhM_3UmxgCOT0tBTx175--lMLhaAXO8",
-  authDomain: "clienter-ai-file-manager.firebaseapp.com",
-  projectId: "clienter-ai-file-manager",
-  storageBucket: "clienter-ai-file-manager.appspot.com",
-  messagingSenderId: "475065909137",
-  appId: "1:475065909137:web:5d0773f33708a7039a6430"
+  apiKey: "YOUR KEY",
+  authDomain: "YOUR KEY",
+  projectId: "YOUR ID",
+  storageBucket: "YOUR BUCKET",
+  messagingSenderId: "YOUR ID",
+  appId: "YOUR APP ID"
 };
 
 // Initialize Firebase
