@@ -39,6 +39,11 @@ JavaScript, React.js, Firebase, HTML, CSS, SASS, NPM Manager, Node.js etc.
 - Running the Project:
   Navigate to the project directory:
   `cd File&Folder-Manager`
+## Preview
+<img width="947" alt="image (1)" src="https://github.com/officialarmannqureshi/File-Manager/assets/91754196/4f05f640-c855-4874-bfd2-5f01dbdecfb4">
+<img width="950" alt="image" src="https://github.com/officialarmannqureshi/File-Manager/assets/91754196/12f5f59e-f62c-42bf-93c3-26baec855a5e">
+
+
 
 ## Contact
 For any questions or feedback, please feel free to create an issue on this repository.
