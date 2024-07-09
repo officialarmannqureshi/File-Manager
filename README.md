@@ -2,6 +2,8 @@
 
 This project is a file and folder management application that allows users to easily organize their digital files. <br>
 Deployed Link: https://clienter-ai-file-manager.netlify.app/ <br>
+Use this email id: test0@gmail.com <br>
+password: test123 <br>
 figma link: https://www.figma.com/design/l8rsE4E54nFYcW07986CPK/Untitled?node-id=0-1&t=zWpDeG2P285Lsnue-0 <br>
 ## Features
 # File and Folder Management:
