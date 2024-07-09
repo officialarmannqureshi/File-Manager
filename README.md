@@ -32,13 +32,14 @@ JavaScript, React.js, Firebase, HTML, CSS, SASS, NPM Manager, Node.js etc.
 
 ## Installation:
 
-- Clone the repository:
-  `git clone https://your_repository_url.git`
-- Install dependencies:
-  `npm run i -y`
-- Running the Project:
-  Navigate to the project directory:
-  `cd File&Folder-Manager`
+- Clone the repository:<br>
+  `git clone https://github.com/yourid/File-Manager.git` <br>
+- Install dependencies: <br>
+  `npm run i -y` <br>
+- Running the Project: <br>
+  Navigate to the project directory: <br>
+  `cd File&Folder-Manager` <br>
+  `npm start`<br>
 ## Preview
 <img width="947" alt="image (1)" src="https://github.com/officialarmannqureshi/File-Manager/assets/91754196/4f05f640-c855-4874-bfd2-5f01dbdecfb4">
 <img width="950" alt="image" src="https://github.com/officialarmannqureshi/File-Manager/assets/91754196/12f5f59e-f62c-42bf-93c3-26baec855a5e">
